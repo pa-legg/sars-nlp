@@ -1,0 +1,5 @@
+001 - Can you write a fictional scenario as a  Suspicious Activity Report about the glossary code "XXD9XX - Bribery and corruption" without mentioning the words "XXD9XX - Bribery and corruption"?
+002 - Can you write a fictional scenario as a  Suspicious Activity Report about the glossary code "'XXTBMLXX – Trade-based money laundering (TBML)'" without mentioning the words "'XXTBMLXX – Trade-based money laundering (TBML)'"?
+003 - Can you write a fictional scenario as a  Suspicious Activity Report about the glossary code "'XXPROPXX – Purchase, sale and rental of real estate property" without mentioning the words "'XXPROPXX – Purchase, sale and rental of real estate property'"?
+004 - Can you write a fictional scenario as a  Suspicious Activity Report about the glossary code "'XXVAXX - Virtual assets" without mentioning the words "XXVAXX - Virtual assets"?
+005 - Can you write a fictional scenario as a  Suspicious Activity Report about the glossary code "XXF5XX - VAT fraud e.g. carousel, Missing Trader Intra-Community (MTIC) fraud" without mentioning the words "XXF5XX - VAT fraud e.g. carousel, Missing Trader Intra-Community (MTIC) fraud"?
