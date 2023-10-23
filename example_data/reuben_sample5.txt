@@ -1,0 +1,12 @@
+Scenario: Suspicious Financial Activity by a UK Domestic PEP
+Name: Sarah Mitchell
+Background: Sarah Mitchell is a 45-year-old UK national who currently serves as a Member of Parliament (MP) in a prominent political party. She has been in office for the past six years and has a reputation for advocating on various social and environmental issues. Sarah comes from a wealthy family and has held key positions in her party.
+The Suspicious Activity:
+1.	Unexplained Wealth: Over the past year, Sarah has shown significant increases in her personal wealth. This sudden wealth accumulation seems disproportionate to her official income and assets.
+2.	Offshore Accounts: Investigators have uncovered several offshore bank accounts under her name in known tax havens, indicating an effort to hide assets and income.
+3.	Property Transactions: Sarah has made multiple high-value property acquisitions, often in cash, without clear explanations for the source of funds.
+4.	Complex Transactions: She has been involved in complex financial transactions, moving large sums of money between various accounts, including offshore ones, which are not consistent with her declared financial activities.
+Red Flags:
+1.	Unexplained Wealth: The sudden surge in wealth without a clear source of income raises questions about potential embezzlement or bribery.
+2.	Use of Offshore Accounts: The presence of offshore accounts in tax havens suggests an intention to evade taxes and conceal financial dealings.
+3.	Lack of Transparency: The lack of transparency in her property transactions and complex financial activities adds to the suspicion of potential corruption or money laundering.
