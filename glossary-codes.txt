@@ -1,0 +1,554 @@
+Suspicious Activity Report (SAR) 
+Glossary Codes and Reporting Routes
+United Kingdom Financial Intelligence Unit (UKFIU)
+PLEASE NOTE: 
+This booklet replaces all previous glossary codes 
+publications. 
+April 2023 (V3.0) Overview
+The purpose of this booklet is to provide guidance on the use of Suspicious Activity 
+Report (SAR) glossary codes and reporting routes. 
+Key points
+1. The  use of glossary codes is considered good practice. They are crucial for
+enabling the UK Financial Intelligence Unit (UKFIU) and wider law enforcement to conduct analysis to identify money laundering trends, high risk cases for development and take immediate action where necessary. They also enable the production of feedback to reporters on trends and patterns identified in S ARs.
+2.
+ The SARs regime is not a route to report crime or matters relating to
+immediate risks to others . The SARs regime is for reporting knowledge or 
+suspicions of money laundering, or belief or suspicions relating to terrorist financing. As such, in addition to a SAR, you may have to report the matter via 
+other routes to ensure the right information gets to the right organisation.Where you do report a crime alongside a SAR it will be good practice to include the crime reference and the organisation details in the SAR.     
+3.
+ When submitting a S
+AR, the relevant glossary code should be included in the
+‘Reason for Suspicion’ text space  (see SAR examples pages 21-27).
+4.
+ It is acceptable to have a SAR with several codes (see example 6, page 27).
+If in doubt as to whether a particular code applies, always work on the basis 
+that it is better to include one than not. When using multiple codes in a SAR, 
+ensure you include a space between each code. It is also possible that a code 
+does not match the set of circumstances faced by the reporter so in some 
+cases it is acceptable that “no codes apply”  be populated into the ‘Reason for 
+Suspicion’ text space.
+Contents of booklet
+•	Walkthrough checklist (step by step guide, pages 3-6)
+•	Detail on codes  (definitions and context, pages 7-18)
+•	Alphabetical list (menu of key themes signposting where they are in this
+guidance, page 19-20)
+•	Examples (location for codes and good practice tips, pages 21-27)
+•	Aide memoire (annex overview of all the codes, page 28-29 – reporters may
+find it useful to have this summary available when inputting SARs )
+2 Walk-through checklist
+Step 1: Do the circumstances require immediate attention?
+Priority is given to SARs indicating high risk victims of crime (such as children and 
+vulnerable adults) and requests for a defence against money laundering (DAML) and terrorist financing.
+Step 2: Other factors to consider 
+1 Proceeds of Crime Act 2002.  
+2 Terrorism Act 2000.
+3 Trade based money laundering has been defined by the Financial Action Task Force (FATF) as “the process of disguising the                        
+    proceeds of crime and moving value through the use of trade transactions in an attempt to legitimise their illicit origins. 
+3 Step 3: Does the laundering relate to specific predicate economic crime 
+offences? (See page 13)
+Step 4: Is the laundering linked to sanctioned entities? (See pages 11-12)
+4 Step 6: Does it relate to a specialist initiative?
+Step 7: Should I still use an NCA Alert reference?
+5
+https://www.modernslaveryhelpline.org/
+https://www.gov.uk/report-immigration-crimeStep 5: Do the circumstances relate to other predicate offences? Step 8: Victim refunds
+6
+ Detail on glossary codes
+XXGVTXX – Requiring a defence under POCA (‘consent’) if the value of the suspected 
+money laundering falls below a value of £3,000
+XXPRFXX – Professional enablers: persons providing professional services or       
+specialist knowledge that wittingly or unwittingly facilitates money laundering.
+The SAR should clearly state how a professional enabler was used. An explanation of 
+why a subject is considered a professional enabler should be included in the SAR. See example 5, page 26.
+7 XXTBMLXX – Trade-based money laundering (TBML)
+The UK Joint Money Laundering Intelligence Taskforce (JMLIT) Trade Based            
+Expert Group suggests that criminals will commonly utilise the following two defined       
+techniques to achieve this aim: (1) the abuse of trade finance products and (2) the abuse of commercial client open account payments.
+The SAR should explicitly state TBML in the intelligence provided. An explanation of 
+what specific actions the subject has performed to warrant a suspicion of TBML should be included in the SAR.
+Trade finance based money laundering – the abuse of trade finance products
+Trade finance can, in its broadest interpretation, be described as being the finance 
+and/or facilitation of the trade related payment by financial institutions relating to the movement of goods and services between two points, both domestically and cross border. The standard products used are Documentary Letters of Credit (LCs) and  Documentary Bills for Collection (BCs). These standard products have trade            related documents (invoices, transport document etc.) that are sent through financial         institutions and are examined by the financial institutions for consistency with the terms of the trade transaction. Both these products are governed internationally by sets of rules and practice issued under the auspices of the International Chamber of Commerce. Approximately 10% of global trade is done in this way using trade finance products. 
+It is the discrepancies found in the verification checks of the trade related documents 
+that often reveal strong indicators of criminal abuse of the trade activities.
+Trade based money laundering – the abuse of commercial client Open        
+Account payments 
+More commonly, world trade is conducted on ‘Open Account’ terms, whereby a 
+‘clean’ payment is made by the buyer of the goods or services direct to the seller, i.e.     without presentation of the supporting trade documentation to the financial institution through which the payment is affected.  
+Open Account trade involves the movement of goods or services between two      
+companies, either domestically or internationally, based on mutual trust. In Open Account transactions, unlike transactions where trade finance products are used, the bank is only aware of, and in receipt of, the instruction to effect payment and will not be aware of the underlying reason for the payment.    
+4 FATF, Trade Based Money Laundering, June 2006 .
+8 In a typical Open Account transaction, the seller and buyer contract for the delivery 
+of stated goods from the seller to a place designated by the buyer. Banks involved in handling a payment related to an Open Account trade transaction generally do so in one (or both) of two capacities: 
+a) the seller or buyer is their commercial customer
+b) the seller or buyer is the commercial customer of the bank’s correspondent     
+  banking customer.  
+Banks handling trade-related payments will be able to perform the basic screening and monitoring related to payments transactions, but they will not, given the absence of availability of underlying transactional information, generally be in a position to otherwise discern suspicious activity.  
+Open payment methods can facilitate:
+• using criminal cash/stockpile to fund a trade payment on behalf of a third      
+       party (goods do not become criminal property)
+• paying for goods to move value directly across borders (goods become   
+       criminal value)• paying for and moving goods through multiple companies/jurisdictions to:
+      disguise origin of funds
+  disguise criminal profits
+  provide reason for wealth/profit at destination
+• manipulating the value of goods to move value across borders.
+XXPROPXX – Purchase, sale and rental of real estate property
+9 XXVAXX  - Virtual assets 
+5 FATF, Regulation of virtual assets’, 19 October 2018
+10 XXMLTMXX – Money laundering through markets
+11XXSNEXX  – Money laundering linked to sanctioned entities
+The NCA has received requests from reporters for a defence against money 
+laundering, concerning entities sanctioned by the UK, US, EU and other overseas jurisdictions. 
+The Defence Against Money Laundering (DAML) and Defence Against Terrorist 
+Financing (DATF) regime is distinct from the Sanctions regime. Where DAML and DATF interact with the Sanctions regime is when sanctioned entities, and by extension persons not sanctioned but linked to sanction entities, are referred to in DAMLs and DATFs submitted by SAR reporters. 
+Where DAMLs are submitted, it is for the purpose of reporting a suspicion of money 
+laundering or criminal property; where DATFs are submitted it is for the purpose of reporting terrorist financing. They are not for the purpose of reporting a suspicion of a sanction breach. 
+The identification of sanctioned entities, or linked non-sanctioned entities, may be 
+made by the reporter and form part of the reasons for submission when submitting a SAR. The NCA cannot tell the reporter what to report within the SAR submission.
+In March 2022 the UKFIU introduced a new SARs glossary code for entities associated 
+to sanctioned individuals and companies on the sanctions list.
+Use the code XXSNEXX  where you suspect the activity is consistent with money 
+laundering and is linked to entities sanctioned by the UK, US, EU and other overseas 
+jurisdictions. COVID-19
+In April 2020 the UKFIU implemented three new SAR glossary codes for reporters as 
+a result of the increased threat posed by organised crime groups (OCGs) seeking to exploit the COVID-19 situation by means of fraud. 
+XXSATXX  – HMRC Self-Assessment Tax Refund system
+Whilst the Self-Assessment Tax Refund system was introduced by HM Revenue & 
+Customs (HMRC) prior to COVID-19 there is the potential for it to be exploited in the current climate. Use code XXSATXX in any SAR relating to suspected fraudulent use of the Self-Assessment Tax Refunds system. This may relate to identifying a change in pattern or behavior in accounts which could suggest fraudulent activity. 
+XXGPSXX  – Government Priority Schemes
+The government introduced a number of schemes to offer support to businesses/
+individuals during the outbreak. Reporters should be alert to the potential for these schemes to be exploited by OCGs to commit fraud. Use code XXGPSXX in any SAR relating to suspected fraudulent use of Government Priority Schemes established as a result of COVID-19. This may relate to identifying a change in pattern or behavior in accounts which could suggest suspicious activity.
+XXCVDXX  – General code
+The UKFIU is conducting specific analysis to inform partners of observ ations on what 
+is being seen in reporting around COVID-19 and SARs. It would assist UKFIU analysis 
+if reporters also used the code XXCVDXX in any SAR relating to suspicious activity connected to COVID-19. 
+•  XXCVDXX should be used for all suspicious activity related to COVID-19.
+•  XXGPSXX or XXSATXX should ONLY be used if the suspicious activity relates to      COVID-19.
+•  For any SAR relating to the suspected fraudulent use of the Government Priority    
+   Scheme, XXCVDXX should be used alongside the glossary code for this scheme       e.g. XXCVDXX and  XXGPSXX.
+•  For any SAR relating to any suspected fraudulent use of the HMRC                         
+   Self-Assessment Tax Refund system, XXCVDXX should be used alongside the     glossary code for this scheme e.g. XXCVDXX and  XXSATXX.
+12To note : the filing of a SAR does not absolve you of your responsibilities to contact 
+the Office of Financial Sanctions Implementation (OFSI) for a license to mo ve the 
+funds for a sanctioned entity or sanctioned individual. Glossary codes XXGPSXX and XXSATXX should not be used without the      
+XXCVDXX code.
+If the circumstances have no connection to COVID-19 but there are suspicions 
+relating to the abuse of the Self-Assessment Tax Refund system or the Government Priority Schemes please consider using other relevant glossary codes e.g. the tax evasion codes (offshore or UK based) instead.
+Predicate offences - economic crime 
+Fraud and tax offences are the largest known source of criminal proceeds from        offending in the UK and involve a variety of crime types, victims, and perpetrators. 
+If you are reporting suspicions/knowledge of money laundering or terrorist financing 
+concerning the below predicate offence please use the appropriate code from the table below in the SAR.
+XXTEOSXX Tax evasion offshore
+XXTEUKXX Tax evasion UK-based
+XXF1XX Proceeds from benefit fraud 
+XXF2XX Excise evasion (duty on alcohol, tobacco, fuel etc.)
+XXF3XX Corporate tax evasion (tax evasion by businesses, corporations)
+XXF4XX Personal tax evasion (tax evasion by individuals e.g. income tax)
+XXF5XX VAT fraud e.g. carousel – Missing Trader Intra-Community (MTIC)  fraud 
+XXF9XX Frauds against private sector
+XXD9XX Bribery and corruption
+Fraud reporting alongside this:
+When you encounter a fraud (or attempted fraud) you will have to consider whether 
+you want to report a crime alongside any responsibilities you have to report 
+suspicions/knowledge of money laundering and terrorist financing to the NCA via a SAR. If the funds involved are not yet the proceeds of crime then it is not money laundering, but attempted fraud.
+You cannot report a crime to the NCA. There are a number of routes to report fraud-related offences if you wish to do so 
+alongside reporting suspicions/knowledge of money laundering/terrorist financing to the NCA. The main route is via the national fraud and cyber-crime reporting centre, Action Fraud, which is run by City of London Police and works alongside the National Fraud Intelligence Bureau.
+13 14Action Fraud
+• Report online via https://www.actionfraud.police.uk  or or call 0300 123 2040 
+(Monday – Friday, 8am – 8pm)
+• If you are calling from outside the UK please call +44 300 123 2040 
+However, if you wish to report business or personal tax fraud you should do so to HM 
+Revenue & Customs via https://www.gov.uk/government/organisations/hm-reve-
+nue-customs/contact/report-fraud-to-hmrc   or call 0800 788 887 (Monday to 
+Friday: 9am to 5pm). If you are calling from outside the UK +44 203 080 0871 .
+Additionally, to report a benefit fraud, do so to the Department for Work & Pensions via Report benefit fraud - GOV.UK (www.gov.uk)
+To report a fraud related to immigration crime (or any other immigration crime) do so to the Home Office via https://www.gov.uk/report-immigration-crime
+Vulnerable persons
+XXV2XX – Risk to vulnerable adults
+https://www.modernslaveryhelpline.org/report
+6  Association of Chief Police Officers (ACPO), Safeguarding and Investigating the Abuse of Vulnerable Adults. https://www.gov.uk/report-child-abuse
+http://www.iwf.org.uk/XXV3XX – Risk to children – particularly including sexual abuse and exploitation
+15XXD9XX – Bribery and corruption
+The UK Anti-Corruption Strategy 2017-2022 states that “there is no universally 
+accepted definition of corruption, but it is generally understood to involve the abuse of office and position to benefit a third party (an individual, business or other    organisation), in return for payment or other reward. These features are captured in Transparency International’s definition: ‘the misuse of entrusted power for personal gain’”.   
+In view of the public profile of persons in a prominent public function it is lik ely that 
+they would wish to avail themselves of a sophisticated smokescreen to conceal their 
+corrupt illicit corrupt gains. Bribery and corruption therefore ha ve significant links to 
+money laundering. The individual does not have to have a public facing role for them to commit bribery and corruption.
+Politically exposed persons (PEPs) 
+The 2015 NRA defined PEPs as: 
+International PEP: a term describing someone who has been entrusted with a 
+prominent public function in a state other than the UK in the preceding year, or a  16relative or known associate of that person. A PEP generally presents a higher risk for 
+potential involvement in bribery and corruption by virtue of their position and the influence that they may hold.
+The 2020 NRA states that the UK remains a prime destination for foreign corrupt PEPs 
+to invest in.
+In February 2012 FATF defined PEPs as:International (Foreign) PEPs: individuals who are or have been entrusted with 
+prominent public functions by a foreign country, for example heads of state or heads 
+of government, senior politicians, senior government, judicial or military officials, senior executives of state owned corporations, important political party officials.
+Domestic PEPs: individuals who are or have been entrusted domestically with 
+prominent public functions, for example heads of state or of government, senior 
+politicians, senior government, judicial or military officials, senior executives of state owned corporations, important political party officials. International PEP – glossary code to be used XXD7XX
+Domestic PEPs – glossary code to be used XXD8XX
+XXILTXX –  Illegal lotteries  
+In simple terms a lottery is gambling that has three elements: payment to participate; prizes awarded; and prizes awarded by way of chance. 
+It is an offence under the Gambling Act 2005 to facilitate or promote a lottery unless 
+the operator holds an operating licence. The profits from an illegal lottery may also be considered criminal property under POCA and therefore the operator may have committed a money laundering offence. It is not an offence to participate in an illegal lottery.
+The Gambling Commission has seen that the majority of illegal lotteries are promoted 
+via social media sites. 
+ Priority crime types                    
+The National Strategic Assessment (NSA) of Serious and Organised Crime 2021     
+provides a single picture of the threat to the UK from serious and organised crime. The threats, which can be cross-cutting, are grouped into: Vulnerabilities – child sexual abuse and exploitation (CSAE); organised immigration crime (OIC); and   modern slavery and human trafficking (MSHT). Prosperity – money laundering; fraud and other economic crime; bribery, international corruption and sanctions evasion; and cyber crime. Commodities – firearms and drugs. 
+Some of the priority crime types are featured in their own sections in this glossary 
+codes document.
+If you think there is an immediate urgent risk to public safety call 999.XXFIREXX – Firearms  
+The NSA illustrates that handguns and shotguns are the most commonly used 
+criminal firearms in the UK, with automatic weapons on the rise, albeit from a low level. If you are reporting suspicions/knowledge of money laundering or terrorist financing relating to firearm criminality include the code XXFIREXX in any SAR.
+XXDRUXX – Illegal supply of drugs
+The NSA illustrates that demand for all common drug types remains high in the UK. It 
+is likely that the UK drugs market and the associated crime will continue to grow and cause increased harm to the UK. If you are reporting suspicions/knowledge of money laundering or terrorist financing relating to drugs include the code XXDRUXX in an y 
+SAR.
+XXOICXX – Organised immigration crime
+The NSA identifies the risks of serious and organised criminals enabling migrants to 
+17
+ enter the UK clandestinely. The unlawful activities of such criminal networks to avoid 
+UK border controls are known as organised immigration crime. 
+XXMSHTXX – Modern slavery/human trafficking
+The term ‘modern slavery’ includes the offences of human traffi cking, forced labour 
+and debt bondage.
+Human trafficking  – involves transporting, recruiting or harbouring people for the 
+purpose of exploitation, using violence, threats or coercion.
+Forced labour – any work or services which people are forced to do against their will 
+normally under the threat of some form of punishment.
+Debt bondage – when people borrow money they cannot repay and are required to 
+work to pay off the debt, then losing control over the conditions of both their 
+employment and the debt.
+A victim of MSHT should always be considered to be a vulnerable person so in all 
+MSHT-related SARs it is also normal to additionally include the vulnerable person code 
+(for adults XXV2XX, for child victims [under 18] XXV3XX).
+The difference between OIC and MSHT
+It is possible for OIC to not involve modern slavery where the intention is purely to 
+enter the UK clandestinely and the crime committed is only against the state.
+It is also possible for modern slavery not to involve OIC where the victims are legally 
+in the UK but are then transported for the purpose of exploitation. Here the crime is 
+against the person.
+If you are reporting suspicion/knowledge of money laundering or terrorist fi nancing 
+with a belief that the circumstances involve clandestine entry into the UK, and is not 
+MSHT, then you should use XXOICXX.
+If you are reporting suspicion/knowledge of money laundering or terrorist fi nancing 
+with a belief that the circumstances involve MSHT and not clandestine entry to the UK 
+then you should use XXMSHTXX e.g. the MSHT victims seem to be legally in the UK.
+Use of both codes XXOICXX and XXMSHTXX
+The NSA states that serious organised crime threats such as OIC and MSHT are 
+increasingly interlinked. There are significant overlaps between MSHT and OIC, with 
+offenders often moving seamlessly between both of these crime threats. 
+Consequently OIC and MSHT SARs are often connected so it is acceptable to use both 
+codes together . Always ensure you include a space betwe en each code when using 
+multiple codes in a SAR  (see example 6, page 27 on the use of multiple codes).
+Alongside using these codes in SARs
+If you also wish to report a non-emergency crime relating to firearms, OIC, MSHT  or 
+drugs contact your local police force via 101.
+18 19A Adult vulnerable person – pages 3, 14 (see example 3, page 24) 
+Alert codes from the NCA – page 5-6
+B Benefit fraud – page 4, 13-14Bribery – page 15
+C Carousel fraud (see MTIC) – page 13 Child exploitation – pages 3, 15 (see example 2, page 23) Consent – pages 3, 7 (see example 1, page 21)Corruption – page 15 (see PEPs, pages 15-16)Counter proliferation – page 5   COVID-19 – page 12-13
+D Drugs (illegal supply of drugs) – pages 5, 17
+E Excise evasion – page 13
+F Firearms – page 17
+G Government priority schemes – page 12
+H Human trafficking – pages 5, 17-18 (OIC pages 17-18; modern slavery  pages 17-18)HMRC Self-Assessment Tax Refund system – page 12
+I Illegal lotteries – page 16Immigration crime (see OIC) – pages 17-18 
+M Modern slavery – pages 5, 17-18Money laundering – pages 7-10Money laundering through markets – page 11MTIC (Missing Trader Intra Community) fraud (carousel fraud) – page 13
+N NCA Alert codes – pages 5-6
+O Offshore tax evasion – page 13Organised immigration crime (OIC) – pages 17-18 (cross refer with modern slavery human trafficking [MSHT])  
+P Politically exposed persons (PEPs) – pages 4, 15-16Professional enabler – pages 3, 7 (see example 5, page 26) Projects – page 29   
+ 
+Propert
+y market – pages 3-4, 9 (see example 4, page 25)  Alphabetical reference list of contents 20R Real estate (cross refer [property market page 9])
+S Sanctions – pages 4, 11-12
+T Tax evasion – pages 4, 13
+Trade based money laundering – pages 8-9
+U UK tax evasion – page 13
+V Vulnerable persons – pages 3, 14 (see example 3, page 24)  (child exploitation pages) (cross refer with modern slavery, human trafficking)  VAT fraud (MTIC) (carousel fraud) – page 13Victim refunds – page 6Virtual assets – page 10  21 Insert glossary code(s) here  at the start of reason for suspicion.  
+   
+ 
+Example  1a): code  and content  – requesting  a defence from  the 
+NCA relating  to Money  Laundering  
+(‘consent ’ SAR)  
+ 
+ 
+“XXS99XX  This SAR seeks  a defence  to a money  laundering  offence  in 
+relation  to our suspicion of money  laundering.  The circumstances are…”  
+Good practice tips –  always:  
+• identify as clearly as possible the suspected benefit from criminal conduct (the 
+‘criminal property’) including, where possible, the amount of benefit  
+• identify the reason(s) for suspecting that property is criminal property  
+• identify the proposed prohibited act/s you seek to undertake involving the 
+criminal property  
+• identify the other party/parties involved in dealing with the criminal property, 
+including their dates of birth (DOB) and addresses where appropriate (such 
+information should be held routinely by reporters in the regulated sector to 
+comply with the requirements of the Money Laundering Regulations)  
+For further guidance relating to requests for a defence to a money laundering 
+offence please refer to the document ‘ Requesting a defence from the NCA’ , 
+published on the NCA website w ww.nationalcrimeagency.gov.uk  
+ 
+ 
+ Glossary code example 1a) – requesting a defence from the NCA 
+relating to money laundering 
+SAR Online view
+           REASON/SUBMIT
+What is your Reason for Suspicion/Knowledge?
+  
+  22 Insert glossary code(s) here  at the start of reason for suspicion.  
+   
+ 
+Example  1b): code  and content  – requesting  a defence  from  the 
+NCA relating  to Terrorist  Finance  
+(‘consent’  SAR)  
+ 
+ 
+“ This SAR seeks  a defence to a terrorist  finance  offence  in relation  to our 
+suspicion  of terrorist  financing . The circumstances  are…”  
+Good practice tips – always:  
+• identify as clearly as possible the suspected terrorist property including, where 
+possible, the value and whereabo uts of the property  
+• identify the reason(s) for suspecting that property is terrorist  property  
+• identify the proposed prohibited act/s you seek to undertake involving the 
+terrorist  property  
+• identify the other party/parties involved in dealing with the terrorist  property, 
+including their dates of birth (DOB) and addresses where appropriate (such 
+information should be held routinely by reporters in the regulated sector to 
+comply with the requirements of the Money Laundering Regulations)  
+For further guidance  relating to requests for a defence to a terrorist finance  
+offence please refer to the document ‘Requesting a defence from the NCA’ , 
+published on the NCA website www.nationalcrimeagency.gov.uk  
+ 
+ 
+ Glossary code example 1b) – requesting a defence from the NCA 
+relating to terrorist finance 
+SAR Online view
+ 
+   23Glossary code example 2 – risk to children
+SAR Online view
+           REASON/SUBMIT
+What is your Reason for Suspicion/Knowledge?          
+ Insert glossary code(s)  here at the start of reason for suspicion.  
+ 
+ 
+Example  2: code and content – risk to children                                                   
+(person under  18 years of age)  
+ 
+“XXV3XX This SAR concerns a chil d we believe is b eing exploited. The 
+circumstances are that the person is 15 years old ……”  
+ 
+Good practice tips – always  : 
+ 
+• describe fully the reasons for suspicion in relation to the money laundering. 
+As a basic guide, wherever you can, try to answer the following six basi c 
+questions to make the SAR as useful as possible: Who? What? Where? 
+When? Why? How?  
+• describe fully all personal information concerning the child – full name, 
+DOB, address and post code, nationality.  
+• describe if law enforcement are already aware of the ci rcumstances, in 
+particular the exploitation of the child. Confirm if contact has been made 
+with CEOP (CEOP ref number) (officer contacted).         
+• describe fully if any additional vulnerabilities exist e.g. if the child is unable 
+to properly protect him/h erself  against exploitation due to what appears to 
+mental, physical or learning disability, or illness related condition.  
+ 
+   
+  24Glossary code example 3 – risk to vulnerable adult
+SAR Online view
+           REASON/SUBMIT
+What is your Reason for Suspicion/Knowledge?          
+ Insert glossary code(s)  here at the start of reason for suspicion.  
+ 
+ 
+Example  3: code and content – risk to vulnerab le adult                                                
+(person over  18 years of age ) 
+ 
+“XXV2XX This SAR concerns a person we believe is a vulnerable adult. The 
+circumstances are that ……”  
+ 
+Good practice tips – always  : 
+ 
+• describe fully the reasons for suspici on in relation to the money laundering. 
+As a basic guide, wherever you can, try to answer the following six basic 
+questions to make the SAR as useful as possible: Who? What? Where? 
+When? Why? How?  
+• describe fully all personal information concerning the adult – full name, 
+DOB, address and post code, nationality.  
+• describe if law enforcement  or social services  are already aware of the 
+circumstances (include any  ref number) (persons  contacted).         
+• describe fully  the vulnerabilities you believe suggest the  person cannot 
+protect him/herself against exploitation e.g. do your concerns relate to 
+what appears to be mental, physical or learning disability, or  an illness 
+related condition?  
+• If you have invoked the Banking Protocol please include this in your reason  
+for suspicion .    
+   
+  25Glossary code example 4 – property market
+SAR Online view
+           REASON/SUBMIT
+What is your Reason for Suspicion/Knowledge?          
+  
+  Insert glossary code(s)  here at the start of reason for suspicion.  
+ 
+Example  4: code  and content  – property  market   
+ 
+ 
+“XXPROPXX This SAR involves the purchase/sale of a property. The property 
+address is ……”  
+ 
+Good practice  tips – always :  
+ 
+• describe  fully the reasons  for suspicion  in relation  to the money  
+laundering.  As a basic guide,  wherever  you can, try to answer  the 
+following  six basic questions  to make  the SAR as useful  as possible:  
+Who?  What?  Where?  When?  Why?  How?   
+ 
+• also include:  
+ 
+- describe  the full address  of the property  and post code 
+- describe  the value  of the property  
+- the date of activity,  how the activity  will take place or has taken  
+place AND 
+- the full identity,  where  known,  of the other  party/parties  
+involved  in dealing with the property,  including,  in particular,  if 
+they are providing  professional  services  e.g. solicitor,  estate  
+agent,  accountant  or company  formation  agent  etc. Where  a 
+professional  enabler  is visible  also use the code XXPRFXX  (see 
+good practice  tips in example  5, page 25). 
+ 
+ 
+  Insert glossary code(s)  here at the start of reason for suspicion.  
+ 
+Example  4: code  and content  – property  market   
+ 
+ 
+“XXPROPXX This SAR involves the purchase/sale of a property. The property 
+address is ……”  
+ 
+Good practice  tips – always :  
+ 
+• describe  fully the reasons for suspicion  in relation  to the money  
+laundering.  As a basic guide,  wherever  you can, try to answer  the 
+following  six basic questions  to make  the SAR as useful  as possible:  
+Who?  What?  Where?  When?  Why?  How?   
+ 
+• also include:  
+ 
+- describe  the full address  of the property  and post code 
+- describe  the value  of the property  
+- the date of activity, how the activity  will take place or has taken  
+place AND 
+- the full identity,  where  known,  of the other  party/parties  
+involved  in dealing with the property,  including,  in particular,  if 
+they are providing  professional  services e.g. solicitor, estate  
+agent,  accountant  or company  formation  agent  etc. Where  a 
+professional  enabler  is visible  also use the code XXPRFXX (see 
+good practice  tips in example  5, page 26). 
+ 
+ 
+  26Glossary code example 5 – professional enabler
+SAR Online view
+REASON/SUBMIT
+What is your Reason for Suspicion/Knowledge?
+Insert glossary code(s)  here at the start of reason for suspicion. 
+Example  5: code and content – professional enabler  
+“XXPRFXX  The circumstances of this SAR involves the use of a Professional 
+Enabler . The ci rcumstances are ……. ” 
+Good practice tips – always : 
+• describe fully the reasons for suspicion in relation to the money
+laundering. As a basic guide, wherever you can, try to answer the 
+following six basic questions to make the SAR as useful as possible: Who? 
+What?  Where?  When?  Why?  How?  
+• describe the services being provided e.g. “the professional services bei ng
+provided are…”  (e.g. accountancy insolvency, audit, company formation, 
+property conveyance, legal services etc.) 
+• remember to include:
+- the date of a ctivity
+- how the activity will take place or has taken place
+- full identity, where known, of the other party/parties involved in, including
+in particular, the type of professional services being provided e.g. 
+solicitor, estate agent, accountant or company fo rmation agent etc. 
+• describe if suspicion relating to the services being provided appear to be
+wittingly or unwittingly facilitating the money laundering described. 
+Describe the indicators suggesting complicit criminal  behaviour  or 
+negligent behaviour of t he professional(s) involved.  
+• The SAR should clearly state how a professional enabler was used. A n
+explanation of why a subject is considered a professional enabler should 
+be included in the SAR.  
+- 
+Examples of how a professional enabler may be used might include: a solicitor used 
+to draw up contracts; company formation agent to make a shell company; an accountant to help liquidation/ insolvency an accountant completing tax returns;a conveyancer helping buy or sell property. 27Glossary code example 6 – modern slavery and multiple codes
+SAR Online view
+REASON/SUBMIT
+What is your Reason for Suspicion/Knowledge?
+Insert glossary code(s)  here at the start of reason for suspicion. 
+Example  6: code and content – modern s lavery ( use of multiple codes)  
+“XXMSHT XX, XXOICXX, XXV2XX and XXV3XX . This SAR concerns some persons 
+who we believe may be victims of modern slavery. Some victims appear to be 
+under 18 yea rs of age and other victims appear to be adults. There are indicators 
+that suggest some of these persons may be in the UK illegally.  
+Good practice tips – always  : 
+• describe fully the reasons for suspicion in relation to the money laundering.
+As a basic gu ide, wherever you can, try to answer the following six basic 
+questions to make the SAR as useful as possible: Who? What? Where? 
+When? Why? How?  
+• describe the red flag indicators you are seeing for modern slavery which
+relates to your suspicion for the money  laundering.  
+• describe the red flag indicators you are seeing for organised immigration
+crime which relates to your suspicion for the money laundering.  
+• describe fully all personal information concerning the child – full name,
+DOB, address and post code, na tionality. 
+• describe fully all personal information concerning the adult – full name,
+DOB, address and post code, nationality. 
+• describe if social services  are al ready aware of the circumstances (include
+any ref number) (persons  contacted).        
+• describ e if law enforcement are already aware of the circumstances, in
+particular the exploitation of the child. Confirm if contact has been made 
+with CEOP (CEOP ref number) (officer contacted).        
+• describe fully if any additional vulnerabilities exist e.g. if the child  or adult  is
+unable to properly protect him/herself  against exploitation due to what 
+appears to mental, physical or learning disability, or illness related 
+condition 
+• separate the glossary codes with a space when using multiple codes. 28Request for a defence under POCA/TACT
+XXS99XX Request for a defence under POCAXXGVTXX Request for a defence under POCA for £3,000 or lessTick ‘Consent’ 
+and submit under TACTRequest for a defence under TACT
+Money laundering
+XXPRFXX Relates to person(s) providing professional services or
+specialist knowledge that wittingly or unwittingly facilitates   money laundering
+XXSNEXX Money laundering and linked to sanctioned entities
+XXTBMLXX Trade-based money launderingXXPROPXX Relates to purchases and rental of real estate property
+XXVAXX Virtual assets
+XXILTXX Illegal lotteries – operating or facilitating illegal lotteries
+XXMLTMXX Money laundering through markets
+Predicate offences - economic crimes
+XXTEOSXX Tax evasion offshoreXXTEUKXX Tax evasion UK-basedXXF1XX Proceeds from benefit fraud
+XXF2XX Excise evasion (duty on alcohol, tobacco, fuel etc.)
+XXF3XX Corporate tax evasion (tax evasion by businesses, corporations)
+XXF4XX Personal tax evasion (tax evasion by individuals e.g. income tax)
+XXF5XX VAT fraud e.g. carousel – Missing Trader Intra-Community (MTIC) 
+fraud 
+XXF9XX Frauds against private sector
+XXD9XX Bribery and corruption
+Politically Exposed Persons (PEPs)
+XXD7XX International PEPs
+XXD8XX Domestic PEPs
+Money laundering/terrorist financing relating to vulnerable personsXXV2XX Risk to vulnerable adults
+XXV3XX Risk to children – including sexual abuse and exploitationGlossary code overview (April 2023) Aide Memoire Other predicate offences
+XXFIREXX Firearms
+XXOICXX Organised immigration crime
+XXMSHTXX Modern slavery and human trafficking
+XXDRUXX Illegal supply of drugs
+Projects/other
+XXPCPXX Counter-proliferation
+XXVICTXX Where the purpose of the activity is to return money to a victim 
+of crime
+XXSATXX Relating to suspected fraudulent use of the HMRC             Self-Assessment Tax Refunds system
+XXGPSXX Relating to suspected fraudulent use of Government Priority 
+Schemes established as a result of COVID-19
+XXCVDXX Relating to any suspicious activity connected to COVID-19
+29 
