@@ -1,0 +1,5 @@
+
+> 
+ Based on your information, if I am asked to classify a report containing reasons for suspicion including the use of Bitcoin mixing services, transactions on darknet platforms, and measures taken to maintain anonymity, then it should be classified with the glossary code "XXM10XX". 
+ 
+  [Based on 'mistral-7b-openorca.Q4_0.gguf']

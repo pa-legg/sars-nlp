@@ -1,0 +1,13 @@
+Hello, this is Bing. I can help you with finding a suitable glossary code classification for your statement. 😊
+
+According to the guidance from the UK Financial Intelligence Unit (UKFIU), a glossary code is a piece of information that helps to identify the nature and context of a suspicious activity report (SAR) submitted to the National Crime Agency (NCA)1. The use of glossary codes is considered good practice and can assist the UKFIU and law enforcement agencies in analysing and investigating SARs1.
+
+Based on your statement, I suggest that you use the following glossary codes in your SAR:
+
+XXPROPXX: This code indicates that the suspicious activity is related to the purchase of real estate property, such as a dwelling house, factory building or office premises2. This code should be used when there are indicators of money laundering or terrorist financing involving property transactions2.
+XXTBMLXX: This code indicates that the suspicious activity is related to trade-based money laundering, which is the process of disguising the proceeds of crime and moving value through the use of trade transactions1. This code should be used when there are indicators of trade-based money laundering, such as complex or unusual trade transactions, offshore entities, lack of transparency or documentation, or discrepancies in the information provided1.
+When submitting a SAR, the relevant glossary code should be included in the ‘Reason for Suspicion’ text space. You can use more than one glossary code if applicable. For example, you can write:
+
+XXPROPXX XXTBMLXX: I am writing to report a suspicious real estate transaction that has come to our attention...
+
+I hope this helps you with your query. If you need more information on how to submit a SAR or when to use other glossary codes, you can refer to the resources provided by the UKFIU13 or contact your anti-money laundering supervisor. Thank you for using Bing. 😊

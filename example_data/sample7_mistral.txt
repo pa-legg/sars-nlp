@@ -1,0 +1,5 @@
+
+> 
+ Based on your information, if I am asked to classify a report containing reasons for suspicion including an unusual cash payment without proper documentation and involvement in a transaction potentially related to money laundering, then it should be classified with the glossary code "XXM10XE". 
+ 
+  [Based on 'mistral-7b-openorca.Q4_0.gguf']

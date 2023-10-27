@@ -1,0 +1,5 @@
+
+> 
+ Based on your information, if I am asked to classify a report containing reasons for suspicion including unexplained wealth, offshore accounts, high-value property acquisitions without clear explanations for source of funds, and complex financial transactions involving an MP in the UK, then it should be classified with the glossary code "XXM10XC".
+
+ [Based on 'mistral-7b-openorca.Q4_0.gguf']

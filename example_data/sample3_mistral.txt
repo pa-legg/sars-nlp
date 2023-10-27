@@ -1,0 +1,5 @@
+
+> 
+ Based on your information, if I am asked to classify a report containing reasons for suspicion including high-value property transactions linked to offshore shell companies, large sums of money believed to be proceeds of criminal activity, professional enabling money laundering, and insufficient due diligence by the legal firm involved, then it should be classified with the glossary code "XXM10XA".
+
+ [Based on 'mistral-7b-openorca.Q4_0.gguf']

@@ -1,0 +1,12 @@
+Hello, this is Bing. I can help you with finding a suitable glossary code classification for your statement. 😊
+
+A glossary code is a piece of information that helps to identify the nature and context of a suspicious activity report (SAR) submitted to the National Crime Agency (NCA)1. The use of glossary codes is considered good practice and can assist the UK Financial Intelligence Unit (UKFIU) and law enforcement agencies in analysing and investigating SARs1.
+
+Based on your statement, I suggest that you use the following glossary code in your SAR:
+
+XXGVTXX: This code indicates that the suspicious activity is related to a request for a defence against money laundering (DAML) where the suspected money laundering is of a value of £3,000 or less2. This code should be used when there are indicators of low-value money laundering, such as cash transactions, lack of due diligence, or involvement of third parties2.
+When submitting a SAR, the relevant glossary code should be included in the ‘Reason for Suspicion’ text space. You can use more than one glossary code if applicable. For example, you can write:
+
+XXGVTXX: John Smith was approached by a regular customer, Mr. David, who requested a favor...
+
+I hope this helps you with your query. If you need more information on how to submit a SAR or when to use other glossary codes, you can refer to the resources provided by the UKFIU12 or contact your anti-money laundering supervisor. Thank you for using Bing. 😊

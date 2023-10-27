@@ -1,0 +1,4 @@
+> 
+ Based on your information, if I am asked to classify a report containing reasons for suspicion including an unusual funding source, lack of transparency, discrepancies in the transaction, high-value transactions involving offshore funds, and red flags, then it should be classified with the glossary code "XXF10XX".
+ 
+ [Based on 'mistral-7b-openorca.Q4_0.gguf']

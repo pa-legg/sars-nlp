@@ -1,0 +1,13 @@
+Hello, this is Bing. I can help you with finding a suitable glossary code classification for your statement. 😊
+
+According to the guidance from the UK Financial Intelligence Unit (UKFIU), a glossary code is a piece of information that helps to identify the nature and context of a suspicious activity report (SAR) submitted to the National Crime Agency (NCA)1. The use of glossary codes is considered good practice and can assist the UKFIU and law enforcement agencies in analysing and investigating SARs1.
+
+Based on your statement, I suggest that you use the following glossary codes in your SAR:
+
+XXBTCXX: This code indicates that the suspicious activity is related to the use of Bitcoin or other cryptocurrencies, such as Ethereum, Litecoin, or Monero2. This code should be used when there are indicators of money laundering or terrorist financing involving cryptocurrencies, such as Bitcoin mixing, darknet transactions, anonymity measures, or large or unusual transactions2.
+XXDNMXX: This code indicates that the suspicious activity is related to the use of darknet markets, which are online platforms that operate on the dark web and facilitate the exchange of illegal goods and services, such as drugs, weapons, or stolen data3. This code should be used when there are indicators of involvement in darknet markets, such as accessing the Tor network, using encrypted communications, or paying with cryptocurrencies3.
+When submitting a SAR, the relevant glossary code should be included in the ‘Reason for Suspicion’ text space. You can use more than one glossary code if applicable. For example, you can write:
+
+XXBTCXX XXDNMXX: I am writing to report a highly suspicious financial activity that has come to our attention...
+
+I hope this helps you with your query. If you need more information on how to submit a SAR or when to use other glossary codes, you can refer to the resources provided by the UKFIU12 or contact your anti-money laundering supervisor. Thank you for using Bing. 😊

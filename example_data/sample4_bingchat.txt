@@ -1,0 +1,12 @@
+Hello, this is Bing. I can help you with finding a suitable glossary code classification for your statement. 😊
+
+According to the guidance from the UK Financial Intelligence Unit (UKFIU), a glossary code is a piece of information that helps to identify the nature and context of a suspicious activity report (SAR) submitted to the National Crime Agency (NCA)1. The use of glossary codes is considered good practice and can assist the UKFIU and law enforcement agencies in analysing and investigating SARs1.
+
+Based on your statement, I suggest that you use the following glossary code in your SAR:
+
+XXHUMTXX: This code indicates that the suspicious activity is related to human trafficking, which is the recruitment, transportation, transfer, harbouring or receipt of persons by means of threat, force, coercion, fraud or deception for the purpose of exploitation2. This code should be used when there are indicators of human trafficking, such as smuggling, illegal immigration, abuse of vulnerability, or violation of human rights2.
+When submitting a SAR, the relevant glossary code should be included in the ‘Reason for Suspicion’ text space. You can use more than one glossary code if applicable. For example, you can write:
+
+XXHUMTXX: The Essex lorry immigrant disaster, also known as the Essex lorry tragedy...
+
+I hope this helps you with your query. If you need more information on how to submit a SAR or when to use other glossary codes, you can refer to the resources provided by the UKFIU12 or contact your anti-money laundering supervisor. Thank you for using Bing. 😊

@@ -1,0 +1,5 @@
+
+> 
+ Based on your information, if I am asked to classify a report containing reasons for suspicion including human trafficking, smuggling of migrants, harsh and dangerous conditions faced by victims, and lack of proper ventilation in a refrigerated container truck, then it should be classified with the glossary code "XXM10XB". 
+ 
+  [Based on 'mistral-7b-openorca.Q4_0.gguf']
